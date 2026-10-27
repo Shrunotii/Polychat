@@ -391,7 +391,7 @@ def search_google(query):
         # Initialize GoogleSearch object with your SerpApi key
         search = GoogleSearch({
             "q": query,
-            "api_key": "b0ff03a6bfdded03c6123c031a924de3ab860f41f20ad354684ac9a1f9db1ab1"  # Replace this with your actual SerpApi key
+            "api_key": "api key here"  # Replace this with your actual SerpApi key
         })
 
         # Get search results
